@@ -1,0 +1,10 @@
+node_modules/
+.env
+*.log
+.DS_Store
+Thumbs.db
+test.txt
+start-server.bat
+server.js
+package.json
+DEPLOYMENT_GUIDE.md
